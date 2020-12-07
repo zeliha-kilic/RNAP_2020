@@ -14,10 +14,8 @@ Biophysical Journal (2020)
 
 Please cite the papers above in any publications using this software.
 
-
-===========================================================================
-Setup and Usage
-===========================================================================
+=================== Setup and Usage 
+===========================================================
 1) To use this software in GUI form run:
    OTexA_GUI
 in Matlab's command window.

@@ -1,4 +1,3 @@
-===========================================================================
 Matlab software implementation for:
 Residence Time Analysis of RNA Polymerase Transcription Dynamics: A Bayesian Sticky HMM Approach
 Biophysical Journal (2020)

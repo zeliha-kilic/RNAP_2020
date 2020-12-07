@@ -25,9 +25,8 @@ in Matlab's command window.
 
 3) This software (source code and GUI) has been developed in Matlab R2019b.
 
-===========================================================================
-Copyright and License
-===========================================================================
+==================== Copyright and License
+============================================================
 
 Copyright (C) 2020, ZK, and SP
 
